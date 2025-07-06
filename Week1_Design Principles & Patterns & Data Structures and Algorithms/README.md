@@ -5,4 +5,5 @@ This module introduces us to essential **design principles and patterns** that a
 Module 2: Data Structures and Algorithms - 
 This module focuses on essential **data structures and algorithms** that form the foundation of efficient and scalable software development.
 
-
+📧 Contact Saumy Raj LinkedIn: www.linkedin.com/in/saumy-raj-56b213257 
+    GitHub: https://github.com/Saumy18
