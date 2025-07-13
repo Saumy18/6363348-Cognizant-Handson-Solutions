@@ -79,6 +79,6 @@ It contains five hands-on exercises designed to progressively build understandin
 Author
 Saumy Raj
 Cognizant Hands-on Project 
-GitHub: 
+Github: https://github.com/Saumy18 LinkedIn: www.linkedin.com/in/saumy-raj-56b213257
 
 
