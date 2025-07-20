@@ -6,5 +6,5 @@ Each week's solutions are organized into individual folders.
 
 Contact: 
 Github: https://github.com/Saumy18
-LinkedIN: www.linkedin.com/in/saumy-raj-56b213257 
+LinkedIn: www.linkedin.com/in/saumy-raj-56b213257 
 Phone: +91 8294575219
