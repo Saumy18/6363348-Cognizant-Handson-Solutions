@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week5_ASP.NET Web API \u0026 Microservices\\Kafka Integration with C Sharp\\CODE\\KafkaChatProducer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE898197-ED1B-48C5-AC8D-ECD3C5BB2D34}|KafkaChatProducer.csproj|c:\\users\\kiit\\onedrive\\desktop\\6363348-cognizant-handson-solutions\\week5_asp.net web api \u0026 microservices\\kafka integration with c sharp\\code\\kafkachatproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE898197-ED1B-48C5-AC8D-ECD3C5BB2D34}|KafkaChatProducer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week5_ASP.NET Web API \u0026 Microservices\\Kafka Integration with C Sharp\\CODE\\KafkaChatProducer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week5_ASP.NET Web API \u0026 Microservices\\Kafka Integration with C Sharp\\CODE\\KafkaChatProducer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:48:53.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
