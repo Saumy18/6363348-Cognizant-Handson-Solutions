@@ -4,3 +4,6 @@ Welcome to the official repository for my weekly hands-on practice submissions f
 
 Each week's solutions are organized into individual folders.
 
+🧑‍💼 Author Saumy Raj Full Stack Developer Trainee – Cognizant 
+📧 22052674@kiit.ac.in 
+🔗 https://github.com/Saumy18
