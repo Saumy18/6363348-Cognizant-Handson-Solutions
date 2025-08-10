@@ -5,12 +5,11 @@ This repository contains solutions for Week 8 – GIT Hands-On tasks as part of 
 It demonstrates practical usage of Git for version control, collaboration, and workflow management, aligned with real-world software development practices.
 
 📂 Repository Structure
-Lab No. 	Folder Name	Description
-Lab 1	    Lab 1 Git Basics	Introduction to Git commands – initializing repositories, staging, committing, and checking history.
-Lab 2	    Lab 2 gitignore	Usage of .gitignore to exclude files and directories from version control.
-Lab 3	    Lab 3 Branch_Merge	Creating and managing branches, and performing merges without conflicts.
-Lab 4	    Lab 4 Merge_Conflict	Simulating and resolving merge conflicts in collaborative workflows.
-Lab 5	    Lab 5 Cleanup_Push	Repository cleanup, commit history management, and pushing changes to remote repositories.
+Lab 1 -	Git Basics	Introduction to Git commands – initializing repositories, staging, committing, and checking history.
+Lab 2	- gitignore	Usage of .gitignore to exclude files and directories from version control.
+Lab 3	- Branch_Merge	Creating and managing branches, and performing merges without conflicts.
+Lab 4	- Merge_Conflict	Simulating and resolving merge conflicts in collaborative workflows.
+Lab 5 - Cleanup_Push	Repository cleanup, commit history management, and pushing changes to remote repositories.
 
 🛠 Skills Demonstrated
 Git Fundamentals: Repository creation, staging, committing, and log analysis.
